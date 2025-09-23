@@ -33,3 +33,8 @@ Diffusjonskonstanten for nanopartiklene ble funnet ved hjelp av absorbsjonsforsk
 Øvinger gjort i TKJ4215 våren 2021. 
 
 Beregninger og simuleringer for ulike scenariorer basert på statistisk dermodynamiske modeller. Øving 4 simulerer en kjemisk reaksjon mellom to ulike partikler. 
+
+## IntroAlgoritmer
+Kode del av øvinger gjort i TDT4121 Introduksjon til algoritmer.
+
+Laget kode for kjente algoritmer.
